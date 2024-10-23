@@ -1,0 +1,2 @@
+# miniapp
+Wordcoin miniapp test
